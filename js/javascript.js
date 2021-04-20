@@ -13,11 +13,11 @@ var chart = AmCharts.makeChart( "skill-chart", {
     "theme": "dark",
     "dataProvider": [ 
       { "Technology": "Manual Testing",
-        "Percentage": 70  }, 
+        "Percentage": 80  }, 
       { "Technology": "Automation Testing",
         "Percentage": 70  },
       { "Technology": "API Testing",
-        "Percentage": 30  } 
+        "Percentage": 70  } 
      ],
   
     "valueAxes": [ 
