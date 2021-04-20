@@ -1,7 +1,7 @@
 /*TypeIt*/
 $(document).ready(function(){
     $('.prointro').typeIt({
-        strings: ["Hi, I'm Prasad", "QA Engineer", "Automation (Selenium with Java) | API (Rest-Assured, Soap UI)"],
+        strings: ["Hi, I'm Prasad", "QA Engineer", "Automation (Selenium with Java) | API (Rest-Assured)"],
         speed: 50,
         autoStart: true
     });

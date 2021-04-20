@@ -8,6 +8,11 @@ html, body {
     background-color: #242930;
 }
 
+.pic{
+    height: 250px;
+    width: 250px;
+}
+
 .navbar-dark .navbar-nav .nav-link{
     color: #ffffff!important;
 }
